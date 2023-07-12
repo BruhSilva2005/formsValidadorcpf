@@ -1,0 +1,11 @@
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\bin\Debug\ATV_cpf.cnpj.exe.config
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\bin\Debug\ATV_cpf.cnpj.exe
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\bin\Debug\ATV_cpf.cnpj.pdb
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.exe
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.pdb
+C:\Users\bruna.ssantos102\source\repos\ATV_cpf.cnpj\ATV_cpf.cnpj\obj\Debug\ATV_cpf.cnpj.Form1.resources

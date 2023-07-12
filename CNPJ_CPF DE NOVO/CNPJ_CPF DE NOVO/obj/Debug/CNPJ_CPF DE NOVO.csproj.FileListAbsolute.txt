@@ -1,0 +1,11 @@
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\bin\Debug\CNPJ_CPF DE NOVO.exe.config
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\bin\Debug\CNPJ_CPF DE NOVO.exe
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\bin\Debug\CNPJ_CPF DE NOVO.pdb
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF_DE_NOVO.Form1.resources
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF_DE_NOVO.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.exe
+C:\Users\bruna.ssantos102\source\repos\CNPJ_CPF DE NOVO\CNPJ_CPF DE NOVO\obj\Debug\CNPJ_CPF DE NOVO.pdb

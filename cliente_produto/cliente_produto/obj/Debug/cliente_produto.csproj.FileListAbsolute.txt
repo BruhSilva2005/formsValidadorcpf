@@ -1,0 +1,8 @@
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\bin\Debug\cliente_produto.exe.config
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\bin\Debug\cliente_produto.exe
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\bin\Debug\cliente_produto.pdb
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\obj\Debug\cliente_produto.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\obj\Debug\cliente_produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\obj\Debug\cliente_produto.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\obj\Debug\cliente_produto.exe
+C:\Users\bruna.ssantos102\source\repos\cliente_produto\cliente_produto\obj\Debug\cliente_produto.pdb

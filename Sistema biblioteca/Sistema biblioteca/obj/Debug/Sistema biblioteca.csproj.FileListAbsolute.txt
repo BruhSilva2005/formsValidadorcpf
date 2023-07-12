@@ -1,0 +1,12 @@
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\bin\Debug\Sistema biblioteca.exe.config
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\bin\Debug\Sistema biblioteca.exe
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\bin\Debug\Sistema biblioteca.pdb
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema_biblioteca.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.exe
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema biblioteca.pdb
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema_biblioteca.FrmCadastroAluno.resources
+C:\Users\bruna.ssantos102\source\repos\Sistema biblioteca\Sistema biblioteca\obj\Debug\Sistema_biblioteca.FrmCadastroLivro.resources

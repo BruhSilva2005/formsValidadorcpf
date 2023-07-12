@@ -1,0 +1,8 @@
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\obj\Debug\APPbiblioteca.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\obj\Debug\APPbiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\obj\Debug\APPbiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\bin\Debug\APPbiblioteca.exe.config
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\bin\Debug\APPbiblioteca.exe
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\bin\Debug\APPbiblioteca.pdb
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\obj\Debug\APPbiblioteca.exe
+C:\Users\bruna.ssantos102\source\repos\APPbiblioteca\APPbiblioteca\obj\Debug\APPbiblioteca.pdb

@@ -1,0 +1,11 @@
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\bin\Debug\CNPJ e CPF.exe.config
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\bin\Debug\CNPJ e CPF.exe
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\bin\Debug\CNPJ e CPF.pdb
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ_e_CPF.Form1.resources
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ_e_CPF.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.exe
+C:\Users\bruna.ssantos102\source\repos\CNPJ e CPF\CNPJ e CPF\obj\Debug\CNPJ e CPF.pdb
